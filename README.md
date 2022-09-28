@@ -1,6 +1,6 @@
 <h1 style="font-size: 32px;">👋 Hello, I’m Adedoyin</h1>
 
-- 🎨 A Product Designer currently living in Nigeria 
+- 🎨 A Product Designer
 - 👀 Interested in Web Dev
 - 🌱 Currently learning Frontend Development technologies
 - 💞️ Open to collaborating on purposeful projects
